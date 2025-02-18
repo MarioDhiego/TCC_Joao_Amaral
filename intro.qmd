@@ -1,0 +1,89 @@
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+
+# Introdução
+
+O descarte de lixo eletrônico tem sido uma situação bastante recorrente desde a última década. Queremos dar valor ao que é descartado, dar uma nova direção que não polua nosso meio ambiente e, como principal consequência, contribuir para a redução do aquecimento global.
+
+
+## Lixo Eletrônico
+
+O lixo eletrônico, também conhecido como e-lixo, é composto por dispositivos eletrônicos descartados, como celulares, computadores, televisores, baterias e eletrodomésticos.
+
+Esses equipamentos contêm diversos materiais valiosos, como metais preciosos (ouro, prata, cobre) e substâncias tóxicas (chumbo, mercúrio, cádmio), que podem causar sérios impactos ambientais se não forem descartados corretamente.
+
+Com o avanço da tecnologia e o aumento do consumo, o volume de lixo eletrônico tem crescido de forma alarmante, tornando sua reciclagem uma necessidade urgente para a preservação do meio ambiente.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Reutilização de Componentes Eletrônicos
+
+Uma das formas mais eficientes de reduzir o impacto do lixo eletrônico é reaproveitar seus componentes. Muitos dispositivos descartados ainda possuem peças em bom estado que podem ser usadas para reparar outros aparelhos. 
+
+Placas de circuito, processadores, memórias RAM e fontes de energia podem ser removidas e reaproveitadas, evitando a necessidade de comprar novos produtos e reduzindo a geração de resíduos. 
+
+Além disso, alguns componentes podem ser transformados em novos dispositivos, como fontes de energia alternativas ou sistemas de automação residencial.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Transformação do lixo eletrônico em novos Produtos
+
+
+Outra maneira de reutilizar o lixo eletrônico é transformá-lo em novos produtos. Por exemplo, telas de LCD quebradas podem ser reaproveitadas na fabricação de lâmpadas LED. Carcaças de computadores e celulares podem ser derretidas e reutilizadas na fabricação de novos dispositivos ou acessórios. 
+
+Além disso, algumas pessoas criam peças de decoração e artesanato a partir de partes de aparelhos antigos, como teclados, fios e placas-mãe, dando um novo propósito a materiais que seriam descartados
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Transformar a Reciclagem do lixo eletrônico em fonte de renda
+
+A reciclagem do lixo eletrônico pode ser uma oportunidade econômica para muitas pessoas. Empresas especializadas compram materiais recicláveis, como cobre e alumínio, extraídos de fios e circuitos eletrônicos. 
+
+Além disso, profissionais que sabem consertar dispositivos eletrônicos podem restaurar e revender aparelhos usados, oferecendo uma opção mais acessível para quem precisa de um equipamento tecnológico a um custo menor. 
+
+Outra possibilidade é criar projetos de sustentabilidade e firmar parcerias com empresas e órgãos públicos para desenvolver ações de coleta e reaproveitamento, contribuindo tanto para a geração de renda quanto para a preservação do meio ambiente.
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Trabalho de Conclusão de Curso",
+    "section": "",
+    "text": "Prefácio",
+    "crumbs": [
+      "Prefácio"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introdução",
+    "section": "",
+    "text": "1.1 Lixo Eletrônico\nO lixo eletrônico, também conhecido como e-lixo, é composto por dispositivos eletrônicos descartados, como celulares, computadores, televisores, baterias e eletrodomésticos.\nEsses equipamentos contêm diversos materiais valiosos, como metais preciosos (ouro, prata, cobre) e substâncias tóxicas (chumbo, mercúrio, cádmio), que podem causar sérios impactos ambientais se não forem descartados corretamente.\nCom o avanço da tecnologia e o aumento do consumo, o volume de lixo eletrônico tem crescido de forma alarmante, tornando sua reciclagem uma necessidade urgente para a preservação do meio ambiente.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#reutilização-de-componentes-eletrônicos",
+    "href": "intro.html#reutilização-de-componentes-eletrônicos",
+    "title": "1  Introdução",
+    "section": "1.2 Reutilização de Componentes Eletrônicos",
+    "text": "1.2 Reutilização de Componentes Eletrônicos\nUma das formas mais eficientes de reduzir o impacto do lixo eletrônico é reaproveitar seus componentes. Muitos dispositivos descartados ainda possuem peças em bom estado que podem ser usadas para reparar outros aparelhos.\nPlacas de circuito, processadores, memórias RAM e fontes de energia podem ser removidas e reaproveitadas, evitando a necessidade de comprar novos produtos e reduzindo a geração de resíduos.\nAlém disso, alguns componentes podem ser transformados em novos dispositivos, como fontes de energia alternativas ou sistemas de automação residencial.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#transformação-do-lixo-eletrônico-em-novos-produtos",
+    "href": "intro.html#transformação-do-lixo-eletrônico-em-novos-produtos",
+    "title": "1  Introdução",
+    "section": "1.3 Transformação do lixo eletrônico em novos Produtos",
+    "text": "1.3 Transformação do lixo eletrônico em novos Produtos\nOutra maneira de reutilizar o lixo eletrônico é transformá-lo em novos produtos. Por exemplo, telas de LCD quebradas podem ser reaproveitadas na fabricação de lâmpadas LED. Carcaças de computadores e celulares podem ser derretidas e reutilizadas na fabricação de novos dispositivos ou acessórios.\nAlém disso, algumas pessoas criam peças de decoração e artesanato a partir de partes de aparelhos antigos, como teclados, fios e placas-mãe, dando um novo propósito a materiais que seriam descartados",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#transformar-a-reciclagem-do-lixo-eletrônico-em-fonte-de-renda",
+    "href": "intro.html#transformar-a-reciclagem-do-lixo-eletrônico-em-fonte-de-renda",
+    "title": "1  Introdução",
+    "section": "1.4 Transformar a Reciclagem do lixo eletrônico em fonte de renda",
+    "text": "1.4 Transformar a Reciclagem do lixo eletrônico em fonte de renda\nA reciclagem do lixo eletrônico pode ser uma oportunidade econômica para muitas pessoas. Empresas especializadas compram materiais recicláveis, como cobre e alumínio, extraídos de fios e circuitos eletrônicos.\nAlém disso, profissionais que sabem consertar dispositivos eletrônicos podem restaurar e revender aparelhos usados, oferecendo uma opção mais acessível para quem precisa de um equipamento tecnológico a um custo menor.\nOutra possibilidade é criar projetos de sustentabilidade e firmar parcerias com empresas e órgãos públicos para desenvolver ações de coleta e reaproveitamento, contribuindo tanto para a geração de renda quanto para a preservação do meio ambiente.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introdução</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]

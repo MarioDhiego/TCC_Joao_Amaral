@@ -1,0 +1,55 @@
+# Preâmbulo Geral
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Trabalho de Conclusão de Curso "
+  page-footer:
+    left: |
+      Was Written by (AMARAL et al - 2025).
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  subtitle: "**Redirecionamento de Lixo Eletrônico**"
+  author: 
+  - name: "**João Renan Cordeiro do Amaral**"
+    orcid: 0000-0001-7262-3336
+    #corresponding: true
+    #email: diego.vatente@gmail.com
+  - name: "**Bruna Pereira Assis**"
+    orcid: 0000-0003-1725-3664
+  date: "02/18/2024"
+  search: true
+  repo-url: https://github.com/MarioDhiego/TCC_Joao_Amaral
+  repo-actions: [edit, issue]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - references.qmd
+    - summary.qmd
+comments:
+  hypothesis: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      light: [pulse,custom.scss]
+      dark:  [cyborg,custom.scss]
+    toc-title: Índice
+    toc-location: right
+  pdf:
+    documentclass: scrreprt
+    fig-pos: "H"
+    number-sections: true
+    pdf-engine: xelatex
+    fontsize: 12pt
+  epub:
+    cover-image: cover.png
+abstract: "Trabalho de Conclusão de Curso, referente a Escola Estadual de Ensino Técnico Professor Franscisco das Chagas Ribeiro de Azevedo."
+
+lang: pt
